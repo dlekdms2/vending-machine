@@ -1,2 +1,2 @@
 # vending-machine
-S-Dev3 assigment2
+S-Dev3 assignment2
